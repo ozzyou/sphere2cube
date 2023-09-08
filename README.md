@@ -18,7 +18,7 @@ Usage
     (cubemap, skybox) faces.
 
     positional arguments:
-      <source>              source equirectangular image filename
+      <source>              source equirectangular image folder
 
     optional arguments:
       -h, --help            show this help message and exit
